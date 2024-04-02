@@ -22,8 +22,8 @@
 	border:solid black 1px;
 	width: 311px;
 	height: 311px;
-	margin-left: 599px;
-	margin-top: 211px;
+	margin-left: 899px;
+	margin-top: 11px;
 	text-align: center;	 
 	background-image: url("https://cdn.pixabay.com/photo/2014/11/24/16/35/alien-544193_1280.jpg");
 	background-position: center;
@@ -68,6 +68,8 @@ margin-left: 25px;
 	</div>
 	
 	</div>
+	
+	
 
 	
 </body>

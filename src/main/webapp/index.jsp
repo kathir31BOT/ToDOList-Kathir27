@@ -11,14 +11,16 @@
 	border: solid black 1px; 
 	hight: 25px;
 	width: 251px;
-	background-color: rgb(19,12,20);
-	margin-top:35px;
+	background-color: rgb(237,233,201);
+	margin-top:135px;
+	color: black;
 	}
 	#sig{
 	border: solid black 1px; 
 	hight: 25px;
 	width: 251px;
-	background-color: rgb(19,12,20);
+	background-color: rgb(237,233,201);
+	color: black;
 	}
 	*{
 	text-align: center;
@@ -76,6 +78,8 @@
 	font-weight:75px;
 	box-shadow: 0px 0px 15px 25px rgb(232,228,195);
 	}
+	.s1{
+	padding-top25px: }
 </style>
 
 </head>
@@ -89,8 +93,8 @@
 			</div >
 			
 				<div id="losi"> 
-			 <a href="UserLogin.jsp" id="log">Login</a> <br> <br>
-			<a href="UserSignup.jsp" id="sig">SignUp</a>
+			 <a href="UserLogin.jsp" id="log" class="s1">Login</a> <br> <br>
+			<a href="UserSignup.jsp" id="sig" class="s1">SignUp</a>
 			</div>
 			
 			 <div id="box">
