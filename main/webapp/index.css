@@ -1,9 +1,0 @@
-@charset "ISO-8859-1";
-#img{
-	background-image: url("https://cdn.pixabay.com/photo/2024/02/05/10/48/bird-8554206_1280.jpg");
-	hight: 125px;
-	border: solid black 1px;
-	width:100%;
-	background-position: center;
-	background-repeat: no-repeat;
-	}
