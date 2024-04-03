@@ -1,0 +1,8 @@
+@charset "ISO-8859-1";
+
+#back{
+	border: solid black 1px;
+	width: 100%;
+	height: 100vh;
+	background-color: black; 
+}
